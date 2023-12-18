@@ -924,6 +924,9 @@ gap: 24px;
     .social {
         margin-right: 80px;
     }
+    .footer {
+        padding: 100px 0;
+    }
 }
 
 .backdrop {
